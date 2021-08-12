@@ -1,4 +1,4 @@
-FROM node:16-alpine3.11
+FROM node:16-buster
 
 LABEL maintainer="https://github.com/stig124"
 LABEL upstream="https://github.com/slidevjs/slidev"
